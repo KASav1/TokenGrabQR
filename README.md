@@ -8,6 +8,7 @@ devez lancé un cmd dans le fichier et tapé
 * python -m pip install -r requirements.txt
 Si ça ne marche pas essayé ceci :
 * pip install -r requirements.txt
+
 Puis vous ouvrez le fichier "server" et vous allez à la ligne 232 / 230 et vous mettez votre webhook
 une fois ceci fait vous pouvez lancé le fichier "start_multiple" et tapé puis vous faite entrez
 ensuite vous aurez dans le dossier "out" un fichier nommé "nitro_id" etc vous l'envoyée à la personne et puis si il le scan
