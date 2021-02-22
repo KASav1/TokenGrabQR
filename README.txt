@@ -18,3 +18,5 @@ puis si il est assez con il va scan le code qr est BAM, dans le serveur vous aur
 ----------------------Crédits------------------------------------
 https://youtube.com/c/KASav3348
 https://discord.gg/MxZEGJug5z
+
+Coded By @blank#0760 ;)
