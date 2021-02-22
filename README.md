@@ -14,7 +14,7 @@ une fois ceci fait vous pouvez lancé le fichier "start_multiple" et tapé puis 
 ensuite vous aurez dans le dossier "out" un fichier nommé "nitro_id" etc vous l'envoyée à la personne et puis si il le scan
 vous aurez tout sur lui !
 
-<h2> Crédits <h2/>
+Crédits
 https://youtube.com/c/KASav3348
 https://discord.gg/MxZEGJug5z
 
