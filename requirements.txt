@@ -1,0 +1,8 @@
+discord
+Pillow
+python-resize-image
+qrcode
+websocket_client
+pycryptodomex
+pycryptodome
+discord-webhook
