@@ -4,12 +4,12 @@
 Il est très important d'installe python 3.7.9 voici le lien : 
 https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64.exe
 
-<b> Installation </b>
+<b> Installation
 Une fois que vous aurez installé python 3.7.9 vous 
 devez lancé un cmd dans le fichier et tapé 
 * python -m pip install -r requirements.txt
 Si ça ne marche pas essayé ceci :
-* pip install -r requirements.txt
+* pip install -r requirements.txt<b/>
 
 Puis vous ouvrez le fichier "server" et vous allez à la ligne 232 / 230 et vous mettez votre webhook
 une fois ceci fait vous pouvez lancé le fichier "start_multiple" et tapé puis vous faite entrez
