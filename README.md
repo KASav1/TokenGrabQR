@@ -2,15 +2,11 @@
 
 <h3> THIS PROGRAM WAS MADE FOR AN EDUCATIONAL PURPOSE ONLY </h3>
 
-<b> Prerequis </b>
+<b> Prerequisite </b>
 * Install python 3.7.9 here is the link: https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64.exe
 
 <b> Installation<b/>
-Once you have installed python 3.7.9 you
-must run a cmd in the file and type
-* python -m pip install -r requirements.txt
-If it doesn't work try this:
-* pip install -r requirements.txt
+Once you have installed python 3.7.9 you must run a cmd in the file and type * python -m pip install -r requirements.txt If it doesn't work try this: * pip install -r requirements.txt
 
 Then you open the "server" file and you go to line 232/230 and you put your webhook
 once this is done you can launch the file "start_multiple" and type then you made enter
