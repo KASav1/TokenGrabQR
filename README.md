@@ -5,8 +5,8 @@
 <b> Prerequisite </b>
 * Install python 3.7.9 here is the link: https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64.exe
 
-<b> Installation<b/>
-Once you have installed python 3.7.9 you must run a cmd in the file and type 
+<b> Installation <b/>
+*Once you have installed python 3.7.9 you must run a cmd in the file and type 
 * python -m pip install -r requirements.txt
 
 Then you open the "server" file and you go to line 232/230 and you put your webhook
