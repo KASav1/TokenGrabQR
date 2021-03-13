@@ -14,7 +14,7 @@
 * After got to "out" folder a file named "nitro_id_XXXXXXXX" then sent the file to the victim and he must scan it with the discord application by going to "settings> scan a qr code"
 
 Credits
-*https://youtube.com/c/KASav3348
-*https://discord.gg/MxZEGJug5z
+* https://youtube.com/c/KASav3348
+* https://discord.gg/MxZEGJug5z
 
 Coded By @blank#0760 ;)
