@@ -3,8 +3,7 @@
 <h3> THIS PROGRAM WAS MADE FOR AN EDUCATIONAL PURPOSE ONLY </h3>
 
 <b> Prerequis </b>
-It is very important to install python 3.7.9 here is the link:
-https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64.exe
+It is very important to install python 3.7.9 here is the link: https://www.python.org/ftp/python/3.7.9/python-3.7.9-amd64.exe
 
 <b> Installation<b/>
 Once you have installed python 3.7.9 you
