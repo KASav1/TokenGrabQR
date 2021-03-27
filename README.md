@@ -17,4 +17,3 @@ Credits
 * https://youtube.com/c/KASav3348
 * https://discord.gg/MxZEGJug5z
 
-Coded By @blank#0760 ;)
